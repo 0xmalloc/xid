@@ -1,5 +1,6 @@
 package xid
 
+
 import (
 	"encoding/json"
 	"testing"
